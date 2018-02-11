@@ -9,4 +9,13 @@
     <version>1.0-SNAPSHOT</version>
 
 
+    <!-- Dependency for the Project-->
+    <dependencies>
+        <dependency>
+        <groupId>io.ddavison</groupId>
+        <artifactId>conductor</artifactId>
+        <version>3.0.2</version>
+        </dependency>
+    </dependencies>
+
 </project>
